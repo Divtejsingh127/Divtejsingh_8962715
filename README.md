@@ -1,1 +1,5 @@
-# Divtejsingh_8962715
+Your name: Divtej Pal Singh
+
+Project Title: Lab 3
+
+Student Id: 8962715
